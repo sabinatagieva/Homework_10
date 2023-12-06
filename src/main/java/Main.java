@@ -1,6 +1,6 @@
 public class Main<T> {
     public static void main(String[] args) {
-        CustomLinkedList<Integer> list = new CustomLinkedList<>();
+        LinkedList<Integer> list = new LinkedList<>();
 
         list.addFirst(1);
         list.addFirst(2);
