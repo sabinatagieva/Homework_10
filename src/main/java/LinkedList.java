@@ -2,7 +2,7 @@ public class LinkedList<T> {
     private Node<T> first;
     private Node<T> last;
 
-    public CustomLinkedList() {
+    public LinkedList() {
         this.first = null;
         this.last = null;
     }
