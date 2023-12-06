@@ -1,4 +1,4 @@
-public class CustomLinkedList<T> {
+public class LinkedList<T> {
     private Node<T> first;
     private Node<T> last;
 
